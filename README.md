@@ -6,11 +6,6 @@
 - 📫 How to reach me ...
 -->
 
-Hello from ScrewchDev!
-
-Check out my Youtube channel where you can find useful tutorials
-about Javascript for you viewing pleasure.
-
 
 
 <!---
